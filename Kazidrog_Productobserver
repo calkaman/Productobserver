@@ -1,0 +1,9 @@
+<xml version "1.0"?>
+<config>
+    <modules>
+        <Kazidrog_Productobserver>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Kazidrog_Productobserver>
+    </modules>
+</config>

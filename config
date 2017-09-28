@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Kazidrog_Productobserver>
+            <version>0.1.0</version>
+        </Kazidrog_Productobserver>
+    </modules>
+    <global>
+        <models>
+            <kazidrog_productobserver>
+                <class>Kazidrog_Productobserver_Model</class>
+            </kazidrog_productobserver>
+        </models>
+        <blocks>
+            <kazidrog_productobserver>
+                <class>Kazidrog_Productobserver_Blocks</class>
+            </kazidrog_productobserver>
+        </blocks>
+        <helpers>
+            <kazidrog_productobserver>
+                <class>Kazidrog_Productobserver_Helper</class>
+            </kazidrog_productobserver>
+        </helpers>
+        <resources>
+            <kazidrog_productobserver_setup>
+                <setup>
+                    <module>Kazidrog_Productobserver</module>
+                </setup>
+            </kazidrog_productobserver_setup>
+        </resources>
+    </global>
+</config>
